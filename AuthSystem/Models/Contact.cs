@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace AuthSystem.Models
 {
-    public class Class
+    public class Contact
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }
