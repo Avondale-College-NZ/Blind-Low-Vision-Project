@@ -39,6 +39,10 @@ namespace AuthSystem.Controllers
         {
             return View();
         }
+        public IActionResult Contact1()
+        {
+            return View();
+        }
         public IActionResult Donate()
         {
             return View();
